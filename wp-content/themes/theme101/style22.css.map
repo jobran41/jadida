@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;;;;;;;;;;EAcE;;AAIF,IAAI;EACH,WAAW,EAAE,IAAI;EACjB,gBAAgB,ECfT,OAAO",
+"sources": ["sass/style22.scss","sass/partials/_variables.scss"],
+"names": [],
+"file": "style22.css"
+}
